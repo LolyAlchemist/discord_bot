@@ -19,4 +19,4 @@ async def emoji_classic(ctx):
     emoji = random.choice(emojis)
     await ctx.send(emoji)
 
-bot.run("MTM3MjY3Nzc5MTk2MjYyODI0Nw.GNZRuz.kIJCocSyKkHuind6TTHgHueIDNBKQUVony229o")
+bot.run("")
